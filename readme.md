@@ -56,8 +56,8 @@ services:
 Execute this command to install the project:
 1.  Clone the project repository
 ```bash
-git clone --depth=1 https://github.com/prakashsharmacs24/django-api.git
-cd django-api
+git clone --depth=1 https://github.com/prakashsharmacs24/django-docker-compose
+cd django-docker-compose
 ```
 
 2.  Builds the images define in the docker-compose.yml
